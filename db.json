@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Abdul Aziz",
+      "phone": "123456789",
+      "email": "abdul@gmail.com",
+      "activeUser": true
+    },
+    {
+      "id": "2",
+      "name": "Aimal Aziz",
+      "phone": "123456789",
+      "email": "aimal@gmail.com",
+      "activeUser": true
+    },
+    {
+      "id": "3",
+      "name": "Muhammad Aqib",
+      "phone": "123456789",
+      "email": "aqib@gmail.com",
+      "activeUser": true
+    },
+    {
+      "id": "4",
+      "name": "Muhammad Aqib",
+      "phone": "123456789",
+      "email": "aqib@gmail.com",
+      "activeUser": true
+    },
+    {
+      "id": "5",
+      "name": "Muhammad Aqib",
+      "phone": "123456789",
+      "email": "aqib@gmail.com",
+      "activeUser": true
+    },
+    {
+      "id": "6",
+      "name": "Muhammad Aqib",
+      "phone": "123456789",
+      "email": "aqib@gmail.com",
+      "activeUser": true
+    },
+    {
+      "id": "7",
+      "name": "Muhammad Aqib",
+      "phone": "123456789",
+      "email": "aqib@gmail.com",
+      "activeUser": true
+    },
+    {
+      "id": "8",
+      "name": "Mazhar Hussain",
+      "phone": "123456789",
+      "email": "aqib@gmail.com",
+      "activeUser": true
+    },
+    {
+      "id": "9",
+      "name": "Mazhar Hussain",
+      "phone": "123456789",
+      "email": "aqib@gmail.com",
+      "activeUser": true
+    },
+    {
+      "id": "10",
+      "name": "Hazrat Hussain",
+      "phone": "123456789",
+      "email": "aqib@gmail.com",
+      "activeUser": true
+    }
+  ]
+}
